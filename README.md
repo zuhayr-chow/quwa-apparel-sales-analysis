@@ -9,6 +9,19 @@ Quwa Apparel is a modest streetwear brand I founded, inspired by purpose, commun
 
 ---
 
+## 🎯 Project Objective
+
+As the founder of Quwa Apparel, I wanted to use real sales data to better understand how our products perform, when customers buy most, and what drives revenue growth. This project combines technical data skills with business decision-making to:
+
+- Track revenue trends and product performance
+- Identify top-selling and high-margin items
+- Compare new vs repeat customer behavior
+- Support better decisions for marketing, restocks, and seasonal drops
+
+By building this dashboard, I aimed to bridge the gap between analytics and real-world action for a growing streetwear brand.
+
+---
+
 ## 🧠 Tools Used
 - **Python (Pandas)** – for data cleaning and preprocessing
 - **Power BI** – for interactive dashboard and visual storytelling
